@@ -1,3 +1,6 @@
+/*This assignment includes stack operations.
+Name: Laura Machado
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
